@@ -1,0 +1,7 @@
+/*
+Done in the Oracle option
+*/
+
+SELECT *
+FROM CITY
+WHERE ID = 1661;
