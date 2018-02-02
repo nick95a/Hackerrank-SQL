@@ -1,0 +1,9 @@
+/*
+The solution listed here is for the Oracle SQL
+*/
+
+
+SELECT * 
+FROM CITY
+WHERE POPULATION > 100000
+    AND COUNTRYCODE = 'USA';
