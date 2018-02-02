@@ -1,0 +1,7 @@
+/*
+I know, i know, probably the easiest thing in the world to get done. Nonetheless,...
+Again, Oracle SQL
+*/
+
+SELECT *
+FROM CITY;
